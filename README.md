@@ -2,7 +2,7 @@
 # Hi there, I'm Jayesh Arun Bafna 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(jayesh.bfn@gmail.com)
 
 Hello, I'm a physicist that enjoys playing with numbers and extracting useful information in order to make informed decisions. In addition, while I'm not at work, I adore taking photographs (lowlight and wildlife photography is my fav).
 
