@@ -1,19 +1,13 @@
-- 👋 Hi, I’m @jaybfn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-jaybfn/jaybfn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 # Hi there, I'm Jayesh Arun Bafna 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+Hello, I'm a physicist that enjoys playing with numbers and extracting useful information in order to make informed decisions. In addition, while I'm not at work, I adore taking photographs (lowlight and wildlife photography is my fav).
+
+### Glad to see you here! 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 ## TechStack
 
