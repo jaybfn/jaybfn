@@ -7,7 +7,8 @@
 Hello, I'm a physicist that enjoys playing with numbers and extracting useful information in order to make informed decisions. In addition, while I'm not at work, I adore taking photographs (lowlight and wildlife photography is my fav).
 
 ### Glad to see you here! 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![Profile views](https://gpvc.arturio.dev/jaybfn)
+[![GitHub followers](https://img.shields.io/github/followers/jaybfn.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jaybfn?tab=followers)
 
 ## TechStack
 
@@ -57,5 +58,7 @@ comming soon...
 ## Github Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaybfn&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-[![Stargazers over time](https://starchart.cc/Naereen/badges.svg)](https://starchart.cc/Naereen/badges)
+[![Jayesh's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaybfn&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Jayesh's github streak](https://github-readme-streak-stats.herokuapp.com/?user=jaybfn&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
