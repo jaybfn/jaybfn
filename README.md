@@ -1,7 +1,7 @@
 
 # Hi there, I'm Jayesh Arun Bafna 
 
-Hello, I'm a physicist that enjoys playing with numbers and extracting useful information in order to make informed decisions. In addition, while I'm not at work, I adore taking photographs (lowlight and wildlife photography is my fav) and also I do intraday forex trading. 
+Hello, I'm a physicist that enjoys playing with numbers and extracting useful information in order to make informed decisions. In addition, while I'm not at work, I adore taking photographs (lowlight and wildlife photography is my fav) and also I am a intraday forex trader. 
 
 ### Glad to see you here! 
 ![Profile views](https://gpvc.arturio.dev/jaybfn)
