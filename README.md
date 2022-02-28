@@ -47,6 +47,8 @@ Hello, I'm a physicist that enjoys playing with numbers and extracting useful in
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+#### WebApp
+![Streamlit](https://img.shields.io/badge/Streamlit-.-brightgreen?style=for-the-badge)
 
 ## Certification/Training:
 
