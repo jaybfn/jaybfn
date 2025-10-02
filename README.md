@@ -55,7 +55,7 @@ Hello, I'm a physicist that enjoys playing with numbers and extracting useful in
 comming soon...
 
 ## Github Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaybfn&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats-ten-alpha-94.vercel.appusername=jaybfn&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 [![Jayesh's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaybfn&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
