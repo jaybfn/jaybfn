@@ -105,16 +105,13 @@ I turn noisy scientific and clinical data into decisions — building applied ML
 ## GitHub metrics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jaybfn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile" alt="Jayesh's GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaybfn&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=jaybfn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile" alt="Jayesh's GitHub stats" />
+  &nbsp;
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=jaybfn&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jaybfn&theme=transparent&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaybfn&theme=github&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
 </p>
 
 ---
