@@ -1,63 +1,137 @@
+![Jayesh Arun Bafna — Physicist · Data Scientist · AI Systems](https://raw.githubusercontent.com/jaybfn/jaybfn/main/assets/jaybfn-github-banner.png)
+# Jayesh Arun Bafna
 
-# Hi there, I'm Jayesh Arun Bafna 
+**Physicist · Data Scientist · ML / AI Systems Engineer**
 
-Hello, I'm a physicist that enjoys playing with numbers and extracting useful information in order to make informed decisions. In addition, while I'm not at work, I adore taking photographs (lowlight and wildlife photography is my fav). 
+I turn noisy scientific and clinical data into decisions — building applied ML systems, analytics pipelines, and multi-agent platforms that ship.
 
-### Glad to see you here! 
-![Profile views](https://gpvc.arturio.dev/jaybfn)
-[![GitHub followers](https://img.shields.io/github/followers/jaybfn.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jaybfn?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/jaybfn?style=social)](https://github.com/jaybfn?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=jaybfn&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/jaybfn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh-arun-bafna-ph-d-820a23ab)
 
-## TechStack
+---
 
-#### Programming:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+### Focus areas
+- Multi-agent AI systems & clinical / scientific decision support
+- Statistical modeling, applied ML, and deep learning
+- Event-driven data platforms (ingest → warehouse → vectors → agents)
+- Cloud MLOps on GCP / AWS / Azure (containers, IaC, observability)
 
-#### IDEs/Editors:
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+> Outside work: low-light and wildlife photography.
 
-#### Database:
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+---
 
-#### Python/ML Libraries:
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+## Tech stack
 
-#### Deep Learning:
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Octave](https://img.shields.io/badge/Octave-0790C0?style=for-the-badge&logo=octave&logoColor=white)
 
-#### MLOps:
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+**AI / Agents / LLMs**  
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Vertex%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-#### Cloud Services:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+**Data / ML libraries**  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
-#### Operating System
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+**APIs & apps**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-#### WebApp
-![Streamlit](https://img.shields.io/badge/Streamlit-.-brightgreen?style=for-the-badge)
+**Data stores & warehouses**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
-## Certification/Training:
+**Cloud & platform**  
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Pub/Sub](https://img.shields.io/badge/Cloud%20Pub%2FSub-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GKE](https://img.shields.io/badge/GKE-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-comming soon...
+**MLOps / IaC / observability**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=261230)
 
-## Github Stats
-<img height="180em" src="https://github-readme-stats-ten-alpha-94.vercel.app/api?username=jaybfn&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+**Tooling**  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-[![Jayesh's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaybfn&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![Jayesh's github streak](https://github-readme-streak-stats.herokuapp.com/?user=jaybfn&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+## Featured work
 
+| Project | Summary | Stack |
+| --- | --- | --- |
+| [Clinical Trial Matching Engine](https://github.com/jaybfn/Autonomous-Clinical-Trial-Matching-Patient-Cohort-Discovery-Engine) | Event-driven patient–trial matching & cohort discovery with multi-agent orchestration on GCP + Snowflake | LangGraph · FastAPI · GKE · Qdrant · Snowflake · dbt · OTel |
+| [Pynanopore](https://github.com/jaybfn/Single-Molecule-Electrophysiology-Data-Analysis) | Production toolkit for single-molecule nanopore electrophysiology — event detection, dwell-time fitting, PSD analysis | Python · FastAPI · Streamlit · Docker · SciPy |
+| [Forex Analytics Dashboard](https://github.com/jaybfn/fx_analytics) | MT5 trading ETL + Streamlit KPIs; published on [PyPI](https://pypi.org/project/fx-analytics/) | Python · Pandas · Plotly · Streamlit · CI |
+| [Mosquito Semantic Segmentation](https://github.com/jaybfn/Semantic_Segmentation_Project) | Multiclass body-part segmentation (U-Net + ResNet152) for vector-borne disease research | TensorFlow · Keras · OpenCV · AWS |
+| [Vaccine Tweet Sentiment ETL](https://github.com/jaybfn/Twitter_Sentiment_Analysis) | Twitter → MongoDB → NLP → PostgreSQL pipeline with Docker Compose | Python · MongoDB · PostgreSQL · Docker |
+
+<details>
+<summary>More projects</summary>
+
+- [Face Mask Detection](https://github.com/jaybfn/Face-Mask-Detection-using-TensorFlow-and-OpenCV) — real-time CNN mask detection with TensorFlow + OpenCV  
+- [Markov Chain Customer Behavior](https://github.com/jaybfn/Markov_Chain_Process) — supermarket path modeling with HMMs  
+- [Currency Price Forecasting](https://github.com/jaybfn/Currency_Price_Forecasting) — time-series forecasting for FX markets  
+
+</details>
+
+---
+
+## GitHub metrics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jaybfn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile" alt="Jayesh's GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaybfn&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jaybfn&theme=transparent&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaybfn&theme=github&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
+</p>
+
+---
+
+## Certifications
+
+*Coming soon — add course / cert badges here as you complete them.*
+
+---
+
+## Connect
+
+- GitHub: [jaybfn](https://github.com/jaybfn)
+- LinkedIn: [Jayesh Arun Bafna, Ph.D.](https://www.linkedin.com/in/jayesh-arun-bafna-ph-d-820a23ab)
+
+## Connect
+
+- GitHub: [jaybfn](https://github.com/jaybfn)
+- LinkedIn: [Jayesh A Bafna](https://www.linkedin.com/in/jayesh-arun-bafna-ph-d-820a23ab/)
+- Email: `jayesh.bfn@gmail.com`
